@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding-left: 0px;
+}
+body{
+    background-color:gray
+}
+.logoimage{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    margin-top: 40px;
+}
+.mainheading{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    margin-top: 40px;
+}
+.loginsection{
+ display: flex;
+ justify-content: center;
+}
+#ussername{
+    margin-top: 30px;
+    width: 170px;
+    height: 35px;
+    border-radius: 20px;
+}
+.container{
+    background-color: antiquewhite;
+    width: 400px;
+   
+}
+.maincontent{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    margin-top: 50px;
+}
+.link1{
+    margin-left: 140px;
+    top: 40px;
+
+}
+  
